@@ -8,3 +8,5 @@ const TextEditor: React.FC = () => {
 
   return <div className='text-editor card'></div>;
 };
+
+export default TextEditor;
